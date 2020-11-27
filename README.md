@@ -11,7 +11,7 @@
 
 ## General-Info
 
-This repository is is for a battery orrdering console app. It allows you to order batteries at any quantity and offers discounts at certain quanitity levels.
+This repository is is for a battery ordering console app. It allows you to order batteries at any quantity and offers discounts at certain quanitity levels.
 
 ## Prerequisites
 
